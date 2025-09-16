@@ -17,10 +17,11 @@ An AI-powered chatbot built with **Streamlit** and **Groq LLaMA 3.3** that helps
 ## 📦 Installation
 Clone the repository:
 ```bash```
-git clone https://github.com/your-username/educational_chatbot.git
+git clone https://github.com/Aerodome200/chatbot_app.git
 cd educational_chatbot
 
 ## Environment Variables:
 This project requires an API key from [Groq](https://console.groq.com/).  
 Create a `.env` file in the project root and add:
+
 
