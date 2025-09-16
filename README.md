@@ -12,7 +12,8 @@ An AI-powered chatbot built with **Streamlit** and **Groq LLaMA 3.3** that helps
 - Python
 - Streamlit
 - Groq API (LLaMA 3.3)
-- dotenv for secret management
+- python-dotenv
+
 
 ## 📦 Installation
 Clone the repository:
@@ -23,5 +24,6 @@ cd educational_chatbot
 ## Environment Variables:
 This project requires an API key from [Groq](https://console.groq.com/).  
 Create a `.env` file in the project root and add:
+
 
 
